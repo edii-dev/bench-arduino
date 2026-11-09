@@ -1,5 +1,5 @@
 // Bench - phone control panel for ESP32 / ESP8266 projects.
-// https://github.com/Romfzkk/bench-arduino
+// https://github.com/edii-dev/bench-arduino
 //
 // Copyright (c) 2026 romfzk. MIT licence, see LICENSE.
 //
